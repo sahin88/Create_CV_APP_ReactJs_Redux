@@ -4,6 +4,8 @@
 
 Via this app you can create your own CV  as pdf file.
 
+## Online demo
+YouTube(https://www.youtube.com/watch?v=Xsox-wQrm38&t=23s)
 
 ## Basic View
 <img with='400px' height='400px' src="https://github.com/sahin88/Create_CV_APP_ReactJs_Redux/blob/main/Screenshot%202021-08-02%20at%2022-48-26%20React%20App.png"/>
