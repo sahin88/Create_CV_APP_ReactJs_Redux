@@ -1,0 +1,15 @@
+.main-form {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 70%;
+  height: auto;
+  border: 1px solid green;
+  position: relative;
+  margin: auto;
+  flex-wrap: wrap;
+}
+
+form {
+  margin: 25px;
+}

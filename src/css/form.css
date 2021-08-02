@@ -1,0 +1,129 @@
+.form-heading {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #ddd;
+  padding: 10px;
+  align-items: center;
+}
+.form-work {
+  border: 1px solid #ddd;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px;
+}
+.form-work-label-div {
+  width: 100%;
+  max-width: 310px;
+  height: auto;
+  box-shadow: 5px 5px 5px #ddd;
+  border: 1px solid#ddd;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin: 10px 0px;
+  flex-wrap: wrap;
+  padding: 5px;
+}
+.form-work-label-div-skills {
+  width: 100%;
+  height: auto;
+  box-shadow: 5px 5px 5px #ddd;
+  border: 1px solid#ddd;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin: 10px 0px;
+}
+.chipinput-div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #4285f4;
+  color: #fff;
+  width: auto;
+  border-radius: 4px;
+  margin: 5px;
+  padding: 3px;
+  font-weight: 300;
+  font-size: 12px;
+}
+
+.chipinput-div button {
+  position: relative;
+  outline: none;
+  background-color: #fff;
+  margin: 0px 5px;
+  color: #fff;
+  font-weight: 300;
+  cursor: pointer;
+  height: 12px;
+  width: 12px;
+  border-radius: 12px;
+  color: #4285f2;
+  border: none;
+  font-weight: 300;
+  font-size: 10px;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+  margin: 5px 0;
+}
+.form-group > input {
+  padding: 10px;
+  font-size: 9px;
+  font-weight: 300;
+  width: 300px;
+}
+.form-group > textarea {
+  font-size: 9px;
+  font-weight: 300;
+}
+.form-group > label {
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.send-button {
+  color: #ffffff;
+  background-color: #4267b2;
+  border: none;
+  padding: 5px;
+}
+.send-button:hover {
+  background-color: #ffffff;
+  color: #4267b2;
+  border: 1px solid #4267b2;
+}
+.change-button {
+  color: #333;
+  background-color: #ffef00;
+  border: none;
+  padding: 5px;
+}
+.clear-button {
+  background-color: #ff0000;
+  color: #fff;
+  border: none;
+  padding: 5px;
+}
+.clear-button:hover {
+  background-color: #ffffff;
+  color: #ff0000;
+  border: 1px solid #ff0000;
+}
+.fragment {
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+  height: auto;
+}
+.form-work-label-div-skills {
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+}
